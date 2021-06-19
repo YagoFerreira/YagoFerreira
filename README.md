@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Yago Ferreira
+- 👀 I’m interested in development and technology...
+- 🌱 I’m currently learning technologies for software and website development...
+- 📫 How to reach me yagoflima@hotmail.com...
+
+<!---
+YagoFerreira/YagoFerreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
